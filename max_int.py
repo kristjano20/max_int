@@ -7,4 +7,3 @@
 #7 Ef hún er minni eða jafnstór þá geri ég ekkert
 #8 Ef nýja talan er neikvæð þá skila ég hæstu tölunni
 #9 Ég endurtek skref 5,6,7 þangað til að ég ég fæ neikvæða tölu
-
